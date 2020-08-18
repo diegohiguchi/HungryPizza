@@ -6035,11 +6035,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projetos\\HungryPizza\\HungryPizza\\HungryPizza\\HungryPizza.csproj",
+      "projectUniqueName": "C:\\Projetos\\HungryPizza\\HungryPizza\\HungryPizza.csproj",
       "projectName": "HungryPizza",
-      "projectPath": "C:\\Projetos\\HungryPizza\\HungryPizza\\HungryPizza\\HungryPizza.csproj",
+      "projectPath": "C:\\Projetos\\HungryPizza\\HungryPizza\\HungryPizza.csproj",
       "packagesPath": "C:\\Users\\diego.higuchi\\.nuget\\packages\\",
-      "outputPath": "C:\\Projetos\\HungryPizza\\HungryPizza\\HungryPizza\\obj\\",
+      "outputPath": "C:\\Projetos\\HungryPizza\\HungryPizza\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\diego.higuchi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6055,8 +6055,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Projetos\\HungryPizza\\HungryPizza\\HungryPizza.Data\\HungryPizza.Data.csproj": {
-              "projectPath": "C:\\Projetos\\HungryPizza\\HungryPizza\\HungryPizza.Data\\HungryPizza.Data.csproj"
+            "C:\\Projetos\\HungryPizza\\HungryPizza.Data\\HungryPizza.Data.csproj": {
+              "projectPath": "C:\\Projetos\\HungryPizza\\HungryPizza.Data\\HungryPizza.Data.csproj"
             }
           }
         }

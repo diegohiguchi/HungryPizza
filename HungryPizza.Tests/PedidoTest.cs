@@ -7,13 +7,13 @@ using Xunit;
 
 namespace HungryPizza.Tests
 {
-    public class PedidoTeste
+    public class PedidoTest
     {
         private readonly PedidoBusiness _pedidoBusiness;
         private readonly Pedido _pedido;
         private readonly PedidoPizza _pedidoPizza;
         private readonly Pizza _pizza;
-        public PedidoTeste()
+        public PedidoTest()
         {
             _pedidoBusiness = new PedidoBusiness();
             _pedido = new Pedido();

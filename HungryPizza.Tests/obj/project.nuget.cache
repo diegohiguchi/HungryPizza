@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AB1QJS9wObQ6pxXe1b7id7qeodVb/6byRCtxw5mSfJEsWgpwUUmuBLtE+CV+QPyPYKkYppUZUa+BE0i9iHhtVQ==",
+  "dgSpecHash": "vQZ0D46zTdLx7vl8tHR3kjbzHR+PFUeCX2oTazE5agIVC9CPVeMSPL0h78qiQ9hc9CDr58rs9EZIZw56nld8oQ==",
   "success": true,
-  "projectFilePath": "C:\\Projetos\\HungryPizza\\HungryPizza\\HungryPizza.Tests\\HungryPizza.Tests.csproj",
+  "projectFilePath": "C:\\Projetos\\HungryPizza\\HungryPizza.Tests\\HungryPizza.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\diego.higuchi\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",
     "C:\\Users\\diego.higuchi\\.nuget\\packages\\fluentvalidation\\9.1.2\\fluentvalidation.9.1.2.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "raLdSq6FPgV68ZD+/gQi8ql5ZTbLrvhb4dxP+jiDMclhow++5qpZEbu2kWgn5E7Wo880MrEJ4GVPt33KH2Jp3A==",
+  "dgSpecHash": "p/euTCOjM7RJvNV3pp2lSahdA2YZiQq46eN28yJXsS3HRx9JmDF4BDXJzSgttXvSqNqyzPCYV5q81Xah+sMi7g==",
   "success": true,
-  "projectFilePath": "C:\\Projetos\\HungryPizza\\HungryPizza\\HungryPizza\\HungryPizza.csproj",
+  "projectFilePath": "C:\\Projetos\\HungryPizza\\HungryPizza\\HungryPizza.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\diego.higuchi\\.nuget\\packages\\automapper\\10.0.0\\automapper.10.0.0.nupkg.sha512",
     "C:\\Users\\diego.higuchi\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\7.0.0\\automapper.extensions.microsoft.dependencyinjection.7.0.0.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projetos\\HungryPizza\\HungryPizza\\HungryPizza.Business\\HungryPizza.Business.csproj": {}
+    "C:\\Projetos\\HungryPizza\\HungryPizza.Business\\HungryPizza.Business.csproj": {}
   },
   "projects": {
-    "C:\\Projetos\\HungryPizza\\HungryPizza\\HungryPizza.Business\\HungryPizza.Business.csproj": {
+    "C:\\Projetos\\HungryPizza\\HungryPizza.Business\\HungryPizza.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\HungryPizza\\HungryPizza\\HungryPizza.Business\\HungryPizza.Business.csproj",
+        "projectUniqueName": "C:\\Projetos\\HungryPizza\\HungryPizza.Business\\HungryPizza.Business.csproj",
         "projectName": "HungryPizza.Business",
-        "projectPath": "C:\\Projetos\\HungryPizza\\HungryPizza\\HungryPizza.Business\\HungryPizza.Business.csproj",
+        "projectPath": "C:\\Projetos\\HungryPizza\\HungryPizza.Business\\HungryPizza.Business.csproj",
         "packagesPath": "C:\\Users\\diego.higuchi\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\HungryPizza\\HungryPizza\\HungryPizza.Business\\obj\\",
+        "outputPath": "C:\\Projetos\\HungryPizza\\HungryPizza.Business\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\diego.higuchi\\AppData\\Roaming\\NuGet\\NuGet.Config",

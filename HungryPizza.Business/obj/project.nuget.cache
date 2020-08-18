@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oaXGFPINbIEWnqI7C5D+a05UBkNoBHBz9Q+aNroWb17DYOn043pGUOIL3TIYmF/YimMYZp5T+QFE6yaMD8OoMA==",
+  "dgSpecHash": "DXsJFFVfr6wzF0iOJb3tVSD99bjgR6EEry+SxTwTFmM301I0338i8mIdIeYMrusYKBMyiXklPTcbd/rXCXNiOg==",
   "success": true,
-  "projectFilePath": "C:\\Projetos\\HungryPizza\\HungryPizza\\HungryPizza.Business\\HungryPizza.Business.csproj",
+  "projectFilePath": "C:\\Projetos\\HungryPizza\\HungryPizza.Business\\HungryPizza.Business.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\diego.higuchi\\.nuget\\packages\\fluentvalidation\\9.1.2\\fluentvalidation.9.1.2.nupkg.sha512"
   ],
