@@ -1,0 +1,8 @@
+C:\Projetos\HungryPizza\HungryPizza\HungryPizza.Business\bin\Debug\netcoreapp3.1\HungryPizza.Business.deps.json
+C:\Projetos\HungryPizza\HungryPizza\HungryPizza.Business\bin\Debug\netcoreapp3.1\HungryPizza.Business.dll
+C:\Projetos\HungryPizza\HungryPizza\HungryPizza.Business\bin\Debug\netcoreapp3.1\HungryPizza.Business.pdb
+C:\Projetos\HungryPizza\HungryPizza\HungryPizza.Business\obj\Debug\netcoreapp3.1\HungryPizza.Business.AssemblyInfoInputs.cache
+C:\Projetos\HungryPizza\HungryPizza\HungryPizza.Business\obj\Debug\netcoreapp3.1\HungryPizza.Business.AssemblyInfo.cs
+C:\Projetos\HungryPizza\HungryPizza\HungryPizza.Business\obj\Debug\netcoreapp3.1\HungryPizza.Business.dll
+C:\Projetos\HungryPizza\HungryPizza\HungryPizza.Business\obj\Debug\netcoreapp3.1\HungryPizza.Business.pdb
+C:\Projetos\HungryPizza\HungryPizza\HungryPizza.Business\obj\Debug\netcoreapp3.1\HungryPizza.Business.csproj.CoreCompileInputs.cache
