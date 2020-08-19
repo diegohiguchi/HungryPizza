@@ -93,6 +93,5 @@ namespace HungryPizza.Data
 
             return base.SaveChangesAsync(cancellationToken);
         }
-
     }
 }

@@ -1,9 +1,10 @@
 ﻿using HungryPizza.Business.Notificacoes;
 using HungryPizza.Business.Services;
+using HungryPizza.Data;
+using HungryPizza.Data.Repository;
 using HungryPizza.Models;
+using Microsoft.EntityFrameworkCore;
 using System;
-using System.Collections.Generic;
-using System.Text;
 using Xunit;
 
 namespace HungryPizza.Tests
@@ -22,15 +23,20 @@ namespace HungryPizza.Tests
                 Endereco = "Rua Teste",
             };
 
-            var clienteRepositoryFake = new ClienteRepositoryFake();
+            var options = new DbContextOptionsBuilder<ApplicationDbContext>()
+                .UseInMemoryDatabase("DbHungryPizzaContext")
+                .Options;
+            var contexto = new ApplicationDbContext(options);
+            var clienteRepository = new ClienteRepository(contexto);
+
             var notificador = new Notificador();
-            var clienteService = new ClienteService(clienteRepositoryFake, notificador);
+            var clienteService = new ClienteService(clienteRepository, notificador);
 
             //Act
             var retorno = clienteService.Adicionar(cliente);
 
             //Assert
-            var cadastroCliente = clienteRepositoryFake.ObterCliente(clienteId);
+            var cadastroCliente = clienteRepository.ObterCliente(clienteId);
             Assert.NotNull(cadastroCliente.Result);
         }
 
